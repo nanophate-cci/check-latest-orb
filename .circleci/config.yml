@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  check: cloudify/manager-orb@volatile
+  check: cloudify/wagon-bulder-orb@volatile
 
 jobs:
   build:
